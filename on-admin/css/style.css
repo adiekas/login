@@ -1,0 +1,35 @@
+body{
+    background: #2F4F4F;
+}
+.form-login{
+    margin-top: 13%;
+    padding-left: 490px;
+}
+
+.outter-form-login {
+    padding: 20px;
+    background: #008080;
+    position: relative;
+    border-radius: 5px;
+}
+
+.inner-login .form-control {
+    background: #FFFFFF;
+    border-radius: 15px;
+}
+
+h3.title-login {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #FFFFFF;
+}
+
+.forget {
+    margin-top: 20px;
+    color: #ADADAD;
+}
+.btn-custom-green {
+    background: #00FFFF;
+    color: #fff;
+    border-radius: 15px;
+}
